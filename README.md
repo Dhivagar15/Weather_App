@@ -1,5 +1,3 @@
-# Weather_App
-
 # 🌤️ Weather App
 
 A sleek, minimal weather app built with HTML, CSS, and JavaScript. Enter any city name to instantly get real-time temperature, humidity, wind speed, and visual weather conditions using the OpenWeatherMap API.
@@ -26,10 +24,11 @@ A sleek, minimal weather app built with HTML, CSS, and JavaScript. Enter any cit
 
 ## 🖥️ Local Setup
 
-1. **Clone the repo**  
+1. Clone the repo
    ```bash
    git clone https://github.com/your-username/weather-app.git
    cd weather-app
 
 2.Insert your OpenWeatherMap API key in script.js
-const appKey = `&appid=YOUR_API_KEY_HERE`;
+   const appKey = `&appid=YOUR_API_KEY_HERE`;
+
