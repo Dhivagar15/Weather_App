@@ -1,8 +1,7 @@
-# 🌤️ Weather App
+# 🌤️ WxApp (Weather App)
 
 A sleek, minimal weather app built with HTML, CSS, and JavaScript. Enter any city name to instantly get real-time temperature, humidity, wind speed, and visual weather conditions using the OpenWeatherMap API.
 
----
 
 ## 🔍 How It Works
 
@@ -11,7 +10,6 @@ A sleek, minimal weather app built with HTML, CSS, and JavaScript. Enter any cit
 - 🌡️ Displays current temperature, humidity, and wind speed.
 - 🌈 Weather icons adjust dynamically based on the condition.
 
----
 
 ## 🧰 Technologies Used
 
@@ -20,7 +18,6 @@ A sleek, minimal weather app built with HTML, CSS, and JavaScript. Enter any cit
 - **JavaScript** — API integration & UI logic  
 - **OpenWeatherMap API** — real-time weather data  
 
----
 
 ## 🖥️ Local Setup
 
@@ -30,5 +27,37 @@ A sleek, minimal weather app built with HTML, CSS, and JavaScript. Enter any cit
    cd weather-app
 
 2.Insert your OpenWeatherMap API key in script.js
-   const appKey = `&appid=YOUR_API_KEY_HERE`;
+  <pre> ```js const appKey = `&appid=YOUR_API_KEY`; ``` </pre>
+   
+3.Open index.html in your browser.
+
+🧪 Features
+
+✅ Weather by city input
+
+✅ Live temperature in Celsius
+
+✅ Dynamic weather icons
+
+✅ Humidity and wind indicators
+
+✅ Modern responsive design
+
+🧠 Learnings
+
+1.This project helped reinforce
+
+2.API integration using fetch()
+
+3.DOM manipulation in JavaScript
+
+4.Responsive design with Flexbox
+
+5.UX simplicity: one task, done well
+
+
+
+
+
+
 
